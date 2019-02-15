@@ -1,7 +1,5 @@
 ## What is GIT?
 
-![Logo](https://github.atcloud.io/AutoTrader/git-workshop/blob/master/logo.png) 
-
 DVCS - Distributed Version Control System
 
 Git allows groups of people to work on the same documents (often code) at the same time, and without stepping on each other's toes. It's a distributed version control system.
